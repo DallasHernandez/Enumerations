@@ -1,0 +1,14 @@
+﻿'Ch 8 resturant order status.exe' (Win32): Loaded 'C:\Users\dhernan5\source\repos\Ch 8 resturant order status\Ch 8 resturant order status\x64\Debug\Ch 8 resturant order status.exe'. Symbols loaded.
+'Ch 8 resturant order status.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'Ch 8 resturant order status.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'Ch 8 resturant order status.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'Ch 8 resturant order status.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'Ch 8 resturant order status.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'Ch 8 resturant order status.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'Ch 8 resturant order status.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 2856 has exited with code 0 (0x0).
+'Ch 8 resturant order status.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'Ch 8 resturant order status.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 23276 has exited with code 0 (0x0).
+The thread 21724 has exited with code 0 (0x0).
+The program '[24236] Ch 8 resturant order status.exe' has exited with code 0 (0x0).

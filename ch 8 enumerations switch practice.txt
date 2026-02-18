@@ -1,0 +1,15 @@
+﻿'ch 8 enumeratons switch practice.exe' (Win32): Loaded 'C:\Users\dhernan5\source\repos\ch 8 enumeratons switch practice\ch 8 enumeratons switch practice\x64\Debug\ch 8 enumeratons switch practice.exe'. Symbols loaded.
+'ch 8 enumeratons switch practice.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'ch 8 enumeratons switch practice.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'ch 8 enumeratons switch practice.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'ch 8 enumeratons switch practice.exe' (Win32): Loaded 'C:\Windows\System32\apphelp.dll'. 
+'ch 8 enumeratons switch practice.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'ch 8 enumeratons switch practice.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'ch 8 enumeratons switch practice.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'ch 8 enumeratons switch practice.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 22884 has exited with code 0 (0x0).
+'ch 8 enumeratons switch practice.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'ch 8 enumeratons switch practice.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 13100 has exited with code 0 (0x0).
+The thread 2328 has exited with code 0 (0x0).
+The program '[17072] ch 8 enumeratons switch practice.exe' has exited with code 0 (0x0).

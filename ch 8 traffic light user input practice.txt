@@ -1,0 +1,14 @@
+﻿'ch 8 traffic light user input practice.exe' (Win32): Loaded 'C:\Users\dhernan5\source\repos\ch 8 traffic light user input practice\ch 8 traffic light user input practice\x64\Debug\ch 8 traffic light user input practice.exe'. Symbols loaded.
+'ch 8 traffic light user input practice.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'ch 8 traffic light user input practice.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'ch 8 traffic light user input practice.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'ch 8 traffic light user input practice.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'ch 8 traffic light user input practice.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'ch 8 traffic light user input practice.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'ch 8 traffic light user input practice.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 12868 has exited with code 0 (0x0).
+'ch 8 traffic light user input practice.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'ch 8 traffic light user input practice.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 18664 has exited with code 0 (0x0).
+The thread 8616 has exited with code 0 (0x0).
+The program '[21344] ch 8 traffic light user input practice.exe' has exited with code 0 (0x0).
